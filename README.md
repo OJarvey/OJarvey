@@ -1,22 +1,96 @@
-- 👋 Hi, I’m @OJarvey
-- 👀 I’m interested in new challenges 
-- 🌱 I’m currently learning full-stack development with code institute 
-- ⚡ Fun fact: I love sports as much as I love to go to the beach
+<h1 align="center">Hey 👋🏽, I'm O'Jarvey Lowman</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/o’jarvey-lowman-8320aa2ba) 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Problem+Solver;Creative+Thinker;Sports+Lover+%26+Beach+Fan;" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OJarvey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OJarvey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OJarvey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Full Stack Developer | Lifelong Learner | Sports + Beach Lover
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OJarvey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--
+<div align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">🌐 Check out my Portfolio</a>
+</div>
+-->
+
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OJarvey&color=green&label=Profile+Views" alt="Profile views" width="150" height="25">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OJarvey&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">🧠 About Me</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  I'm currently learning Full Stack Web Development with Code Institute. I enjoy creating clean, responsive, and dynamic web apps using modern tools like HTML, CSS, Django and JavaScript. I thrive on solving complex problems and love the thrill of debugging. I’m always eager to learn new technologies and improve my skills.<br><br>
+  Whether it's designing, building APIs, or debugging code, I’m here for the challenge! My creativity also extends beyond code to UX/UI design, and I love merging design with functionality.<br><br>
+  Outside of tech, I’m passionate about sports and unwinding by the beach 🌊. Let’s build something awesome together!
+</p>
+
+---
+
+<h2 align="center">🛠️ Tools & Tech Stack</h2>
+
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+</p>
+
+<h3 align="center">🧠 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+<h3 align="center">☁️ Deployment & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OJarvey&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=OJarvey&theme=highcontrast&hide_border=true" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJarvey&layout=compact&hide_border=true&theme=highcontrast" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OJarvey&theme=radical&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/o’jarvey-lowman-8320aa2ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
