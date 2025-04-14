@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OJarvey&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub stats" />
@@ -80,14 +80,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OJarvey&theme=radical&no-bg=true&margin-w=5" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+<h2 align="center">🔗 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/o’jarvey-lowman-8320aa2ba/" target="_blank">
