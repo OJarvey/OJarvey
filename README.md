@@ -73,7 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OJarvey&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=OJarvey&theme=highcontrast&hide_border=true" alt="GitHub streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJarvey&layout=compact&hide_border=true&theme=highcontrast" alt="Top Languages" />
 </p>
