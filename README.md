@@ -25,7 +25,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  I'm currently learning Full Stack Web Development with Code Institute. I enjoy creating clean, responsive, and dynamic web apps using modern tools like HTML, CSS, Django and JavaScript. I thrive on solving complex problems and love the thrill of debugging. I’m always eager to learn new technologies and improve my skills.<br><br>
+  I'm a graduate of Full Stack Web Development with Code Institute. I enjoy creating clean, responsive, and dynamic web apps using modern tools like HTML, CSS, Django and JavaScript. I thrive on solving complex problems and love the thrill of debugging. I’m always eager to learn new technologies and improve my skills.<br><br>
   Whether it's designing, building APIs, or debugging code, I’m here for the challenge! My creativity also extends beyond code to UX/UI design, and I love merging design with functionality.<br><br>
   Outside of tech, I’m passionate about sports and unwinding by the beach 🌊. Let’s build something awesome together!
 </p>
