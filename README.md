@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Full Stack Developer | Lifelong Learner | Sports + Beach Lover
+  Full Stack Software Developer | Army Veteran & Lifelong Learner
 </p>
 
 <!--
